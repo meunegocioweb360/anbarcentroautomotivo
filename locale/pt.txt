@@ -5,7 +5,7 @@
 ### Description
 
 ### Title
-tour.name = Âmbar Auto Center - Tour Virtual 360°
+tour.name = Anbar Auto Center - Tour Virtual 360°
 
 ## Skin
 
