@@ -3,6 +3,7 @@
 ## Tour
 
 ### Description
+tour.description = R. Prof. José Barreto, 1229 - Jardim Dinorah, Cotia - SP, 06703-000
 
 ### Title
 tour.name = Anbar Auto Center - Tour Virtual 360°
